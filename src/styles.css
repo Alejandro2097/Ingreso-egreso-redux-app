@@ -1,0 +1,6 @@
+.cursor {
+  cursor: pointer;
+}
+.active {
+  color: #5983e8 !important;
+}
